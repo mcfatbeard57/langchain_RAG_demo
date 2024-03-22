@@ -19,7 +19,7 @@ python create_vectorDB.py
 2. **Query the Chroma DB:**
 
 ```
-python query_data.py "How does Alice meet the Mad Hatter?"
+python query_data.py "What does Gunslinger sacrifices to meet with Man in Black?"
 ```
 
 ## OpenAI Account Setup
